@@ -1,5 +1,6 @@
 
-![image](https://github.com/S-Threepio/GuardianAngelMobile/assets/36107785/c59bfa70-8f27-4b4c-bad2-fa1a55de7851)
+![image](https://github.com/S-Threepio/GuardianAngelMobile/assets/36107785/4f61374e-4bb7-4b7d-b515-e5e8bd9cda3c)
+
 
 
 
