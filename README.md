@@ -1,5 +1,6 @@
 
-![Screenshot_20231129-223400](https://github.com/S-Threepio/GuardianAngelMobile/assets/36107785/b39b677e-1902-4575-bf80-897abf093d55)
+![image](https://github.com/S-Threepio/GuardianAngelMobile/assets/36107785/c59bfa70-8f27-4b4c-bad2-fa1a55de7851)
+
 
 
 ## Guardian Angel Mobile
