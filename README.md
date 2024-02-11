@@ -1,3 +1,7 @@
+
+![Screenshot_20231129-223400](https://github.com/S-Threepio/GuardianAngelMobile/assets/36107785/b39b677e-1902-4575-bf80-897abf093d55)
+
+
 ## Guardian Angel Mobile
 Sync the Project and install all the gradle dependencies.
 
